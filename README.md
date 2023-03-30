@@ -24,7 +24,7 @@ NOTE: The API key is unique for the account and Account Administrator user pair.
 <!-- Start SDK Installation -->
 ## Notice of Alpha Status
 
-This is a Alpha release of the terraform Terraform Provider. 
+This is a Alpha release of the Fivetran Terraform Provider. 
 
 It is under active development and you may experience breaking changes. Please pin to a version if trialing in production.
 
