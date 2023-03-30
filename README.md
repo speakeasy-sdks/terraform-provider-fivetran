@@ -1,9 +1,9 @@
-# terraform
+# Fivetran Terraform Provider
 
 <!-- Start SDK Installation -->
 ## Notice of Alpha Status
 
-This is a Alpha release of the terraform Terraform Provider.
+This is a Alpha release of the terraform Terraform Provider. 
 
 It is under active development and you may experience breaking changes. Please pin to a version if trialing in production.
 
@@ -15,7 +15,7 @@ To install this provider, copy and paste this code into your Terraform configura
 terraform {
   required_providers {
     terraform = {
-      source  = "speakeasy/terraform"
+      source  = "fivetran/terraform"
       version = "0.0.1"
     }
   }
